@@ -1,6 +1,6 @@
 # SwapZone
 
-![SwapZone Logo](https://via.placeholder.com/150) <!-- Replace with actual logo if available -->
+![SwapZone Logo](./images/logo.png) <!-- Replace with actual logo if available -->
 
 ## 📋 Description
 
