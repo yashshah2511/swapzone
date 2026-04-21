@@ -1,7 +1,8 @@
 # SwapZone
 
-![SwapZone Logo](./images/logo.png) <!-- Replace with actual logo if available -->
-
+<p>
+  <img src="./images/logo.png" alt="SwapZone Logo" width="200"/>
+</p>
 ## 📋 Description
 
 SwapZone is a comprehensive full-stack e-commerce application that enables users to buy and sell products seamlessly. Built with a modern tech stack, it offers a robust platform for online trading with features like user authentication, product management, shopping cart, order processing, payment integration, and an admin dashboard for analytics and management.
